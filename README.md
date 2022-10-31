@@ -4,8 +4,8 @@ Detailed information about this project can be found in my official thesis in th
 A short summary is provided below.
 
 ## Description
-*A predictive Long Short Term Memory (LSTM) Neural Network was implemented for the accurate prediction of fuel consumption per ship's step. 
-*The Q-learning, DQN and Rainbow agents were compared. 
+* A predictive Long Short Term Memory (LSTM) Neural Network was implemented for the accurate prediction of fuel consumption per ship's step. 
+* The Q-learning, DQN and Rainbow agents were compared. 
 
 ## Comparison of agents
 * **Q-learning:** Proved to be an excellent choice as long as the state-space is small. As it grows larger, the Q-learning agent as expected cannot keep up. 
