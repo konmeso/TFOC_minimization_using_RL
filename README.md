@@ -1,5 +1,6 @@
-# Total Fuel Oil Consumption (TFOC) minimization of a ship using Reinforcement Learning (RL)
+# 🚢 Total Fuel Oil Consumption (TFOC) minimization of a ship using Reinforcement Learning (RL)
 👨‍💻 Coding: Julia Language
+
 📄 Detailed information about this project can be found in my official thesis in the following URL: 
 
 A short summary is provided below.
